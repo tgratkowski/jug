@@ -1,4 +1,4 @@
-# jBPM examples presented  at jug zielona góra meeting [Dec 14th, 2015]
+# jBPM examples presented  at jug zielona góra meeting [Dec 16th, 2015]
 
 <b>jub-jbpm - hello world example</b>
 
