@@ -1,0 +1,26 @@
+import org.drools.core.process.core.datatype.impl.type.StringDataType;
+
+[
+
+  [
+    "name" : "Rest",
+    "description" : "Invoke a REST service",
+    "version" : "1.0",
+    "parameters" : [
+    	"Url" : new StringDataType(),
+    	"Method" : new StringDataType(),
+    	"ConnectTimeout" : new StringDataType(),
+    	"ReadTimeout" : new StringDataType(),
+    	"HandleResponseErrors" : new StringDataType(),
+    	"ResultClass" : new StringDataType(),
+    	"Username" : new StringDataType(),
+    	"Password" : new StringDataType()
+    ],
+    "displayName" : "REST",
+    "category" : "Service",
+    "defaultHandler" : "org.jbpm.process.workitem.rest.RESTWorkItemHandler",
+    "documentation" : "http://docs.jboss.org/jbpm/v6.0/repository/Rest/",
+    "icon" : "icons/rest-16x16.png"
+  ]
+
+]
