@@ -1,2 +1,0 @@
-127.0.0.1 - - [16/Dec/2015:19:42:52 +0100] "GET /rest/management/decision/1/Tom/no HTTP/1.1" 200 39 http-bio-8080-exec-1 365
-127.0.0.1 - - [16/Dec/2015:19:43:58 +0100] "GET /rest/management/decision/1/Tom/yes HTTP/1.1" 200 40 http-bio-8080-exec-3 4
