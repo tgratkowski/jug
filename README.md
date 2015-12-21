@@ -1,8 +1,7 @@
 # jBPM examples presented  at jug zielona góra meeting [Dec 14th, 2015]
 
-jub-jbpm - hello world example
+<b>jub-jbpm - hello world example</b>
 
-current example: example3.bpmn
-
+current example: example3.bpmn<br/>
 to run: mvn clean compile exec:java
 
